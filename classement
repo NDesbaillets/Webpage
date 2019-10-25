@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+<body>
+<head>
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="0" />
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="keyword" content="Rinkmaster" />
+  <title>TOURNOI DOUBELTTES - Classement Général</title>
+  <style type="text/css">
+    body                    {font-family:Arial,Tahoma,Verdana,Arial,Sans-Serif;}
+    #leftborder              {}
+    #maincontent             {max-width:1000px;}
+    #rightborder             {}
+    a, a:visited            {color:#0000C0; text-decoration:none;}
+    a:hover                 {text-decoration:underline;}
+    table                   {width:100%; font-size:9pt; font-weight:bold; border-width:1px; border-color:silver; border-collapse:collapse;}
+    td                      {border-style:solid; border-width:1px; border-color:silver; padding:2px; vertical-align:top; text-align:left;}
+    th                      {border-style:solid; border-width:1px; border-color:silver; padding:2px; background-color:#FF0000; color:#FFFFFF; vertical-align:top; text-align:left;}
+    .title                  {font-size:15pt; font-weight:bold; background-color:#FF0000; color:#FFFFFF; margin-bottom:10px; padding:5px; margin-bottom:10px; border:3px silver outset; text-align:center;}
+    .subtitle               {font-size:14pt; font-weight:bold; padding:5px; margin-top:10px; margin-bottom:10px;}
+    .subtitle2              {font-size:14pt; font-weight:bold; padding-left:5px; padding:5px; background-color:#FF0000; color:#FFFFFF;border:1px solid silver; margin-top:10px;}
+    .subtitle3              {font-size:9pt; font-weight:bold; padding-left:5px; padding-top:2px; padding-bottom:2px; background-color:rgba(255,0,0,0.6);color:#FFFFFF; border:1px solid silver; }
+    .listitem               {font-size:9pt; padding-left:5px; font-weight:bold;}
+    .numcol                 {width:50px; text-align:center;}
+    .lsdcol                 {width:45px; text-align:right;padding-right:5px;}
+    .refcol                 {width:50px; text-align:left;}
+    .pescol                 {width:150px; text-align:center;}
+    .ebecol                 {width:30px; text-align:center;}
+    .rinkcol                {width:80px;}
+    .divcol                 {width:2px;}
+    .pairingcol             {width:50%;}
+    .lsd1                   {width:60px; text-align:center;}
+    .lsds                   {width:50px; float:right; text-align:right;margin-right:10px;}
+    #navigation             {width:100%; font-weight:bold;}
+    #navlanguage            {float:right; font-size:12px;}
+    #navlanguage ul         {margin:0; padding:0; list-style-type:none;}
+    #navlanguage li         {display:table-cell;line-height:16px;vertical-align:middle;padding:2px;}
+    #navlanguage li.active  {font-weight:bold;}
+    #navtable               {width:100%;}
+    #navtable table         {width:100%;margin-bottom:20px;border:3px ridge silver;}
+    #navtable table th      {width:200px;padding-left:10px;}
+    #navtable table td      {width:200px;text-align:center;}
+    table.nav               {margin-bottom:20px;border:3px ridge silver}
+    table.nav th            {width:200px;}
+    table.nav td.navitem    {width:200px;}
+    .result                 {}
+    .result th              {background-color:rgba(255,0,0,0.2);color:black;}
+    .curgame                {}
+    .curgame th             {background-color:rgba(255,0,0,0.2);color:black;}
+    #footnote               {font-size:10pt; font-weight:bold; padding:5px; margin-top:10px; margin-bottom:10px;}
+    #footnote table, #footnote tr, #footnote th, #footnote td   {border:none;}
+    #footnote table th      {background-color:white;vertical-align:super; font-size:smaller;width:50px;text-align:center;}
+    .footnote               {font-size:10pt; font-weight:bold; padding:5px; margin-left:10px; margin-top:10px; margin-bottom:10px;}
+    .teammember             {font-weight:normal;}
+    table.blank             {border:none;}
+    table.blank td          {border:none;}
+    table.footer            {border:none; font-weight:bold; margin-top:10px; margin-bottom:10px;}
+    table.footer td         {border:none;}
+    .license                {text-align:right;}
+    .team                   {}
+    table.team th           {font-size:14pt;padding:5px;}
+    .memberposition         {width:80px;padding-left:5px;}
+    .membername             {}
+    .membermc               {width:150px;}
+    .dsc                    {}
+    #topline                {}
+    #topleft                {float:left; width:50%;}
+    #topright               {float:left; width:50%;}
+  </style>
+  <link rel="stylesheet" type="text/css" href="styles.css" />
+</head>
+<body>
+<div id="leftborder"></div>
+<div id="maincontent" >
+  <div id="topline">
+    <div id="topleft"></div>
+    <div id="topright"></div>
+  </div>
+  <div id="navigation"></div>
+<div class="title">TOURNOIS DOUBLETTES</div>
+<div class="subtitle">Classement Général</div>
+<table class="rank">
+  <tr><th class="numcol">Rang</th><th>Mannschaft</th><th class="numcol">Punkte</th><th class="numcol">Steine</th><th class="numcol">Ends</th><th class="numcol">Spiele</th></tr>
+  <tr><td class="numcol">1</td><td><a href="m.html#Team4">ARAPAIMA / N. DESBAILLETS</a><br /><div class="teammember">Nicolas Desbaillets (Skip); Kin-Lloyd Sciboz; Antoine Liaudet; Valentin Loup; Julien Desbaillets</div></td><td class="numcol">6</td><td class="numcol">38</td><td class="numcol">16</td><td class="numcol">3</td></tr>
+  <tr><td class="numcol">2</td><td><a href="m.html#Team15">TEX AVERY / M. BOURLARD</a><br /><div class="teammember">Marc Bourlard (Skip); Daniela Ruetschi-Schlegel; Walter Lanz; Alain Amstutz; Alain Sémoroz; Joëlle Galand</div></td><td class="numcol">4</td><td class="numcol">26</td><td class="numcol">14</td><td class="numcol">3</td></tr>
+  <tr><td class="numcol">3</td><td><a href="m.html#Team12">LES SMARTICES / J.-M. DESBAILLETS</a><br /><div class="teammember">Jean-Marc Desbaillets (Skip); Jean-Paul Besson; Jun Xia Dai; François Grimaître; Stefan Klaiber</div></td><td class="numcol">4</td><td class="numcol">17</td><td class="numcol">7</td><td class="numcol">2</td></tr>
+  <tr><td class="numcol">4</td><td><a href="m.html#Team10">LES LYNX / J. HORNISBERGER</a><br /><div class="teammember">Jurg Hornisberger (Skip); Bertrand Dousse; Florian Martinez; Christianne Hornisberger; Sofia Oliveira Ares</div></td><td class="numcol">4</td><td class="numcol">15</td><td class="numcol">10</td><td class="numcol">3</td></tr>
+  <tr><td class="numcol">5</td><td><a href="m.html#Team3">HELLO / D. CHAPUIS</a><br /><div class="teammember">Dominique Chapuis (Skip); Christian Dubois; José Scheideger; Michel Donzallaz; Christophe Graf</div></td><td class="numcol">4</td><td class="numcol">15</td><td class="numcol">7</td><td class="numcol">3</td></tr>
+  <tr><td class="numcol">6</td><td><a href="m.html#Team13">SPICE CURLS / R. STORNETA</a><br /><div class="teammember">Reto Stornetta (Skip); Christelle Boudry; Anne Dubois; Eric Duvoisin; Claudine Zufferey; Jacques Jeanfavre</div></td><td class="numcol">3</td><td class="numcol">20</td><td class="numcol">12</td><td class="numcol">3</td></tr>
+  <tr><td class="numcol">7</td><td><a href="m.html#Team16">LOS DIABLOS / G. MANCINI</a><br /><div class="teammember">Gaetan Mancini (Skip); Florian Mesot; Matthieu Fague; Nehla Meier; Ilian Meier</div></td><td class="numcol">2</td><td class="numcol">19</td><td class="numcol">8</td><td class="numcol">2</td></tr>
+  <tr><td class="numcol">8</td><td><a href="m.html#Team8">PIER'PRECIEUSES / A. SPOERRI</a><br /><div class="teammember">Alex Spoerri (Skip); Laurence Pannatier Devas; Urs Bucher; Léo Pannatier; Raymond Gindroz</div></td><td class="numcol">2</td><td class="numcol">18</td><td class="numcol">14</td><td class="numcol">3</td></tr>
+  <tr><td class="numcol">9</td><td><a href="m.html#Team1">CRAWLEURS BRASSES / S. ALMY</a><br /><div class="teammember">Sébastien Almy (Skip); Colin Almy; Alfred Roth-Laffely; Pierre Barraud; Jean-François Ottesen; Daniel Wenger</div></td><td class="numcol">2</td><td class="numcol">17</td><td class="numcol">9</td><td class="numcol">2</td></tr>
+  <tr><td class="numcol">10</td><td><a href="m.html#Team6">SIHOUPLEH / J.P. SUTER</a><br /><div class="teammember">Jean-Philippe Suter (Skip); Carine Mattille; Philippe Loertscher; Melissa Corboz; Sharon Carrard</div></td><td class="numcol">2</td><td class="numcol">15</td><td class="numcol">11</td><td class="numcol">2</td></tr> 
+</table>
+<hr />
+<div class="subtitle">Résultats Passés</div>
+<div class="subtitle3">jeu. 17.10.2019, 20:40 - 3. Tour</div>
+<div class="result"><table><th class="rinkcol">Rink D</th><td><table class="blank"><td class="pairingcol">LES LYNX / J. HORNISBERGER</td><td class="pariingcol">PIER'PRECIEUSES / A. SPOERRI</td></table></td><td class="pescol"><table class="blank"><tr><td class="numcol">2-8-3</td><td class="divcol">:</td><td class="numcol">0-4-4</td></tr></table></td></tr></table></div>
+<div class="subtitle3">jeu. 17.10.2019, 18:25 - 3. Tour</div>
+<div class="result"><table><th class="rinkcol">Rink C</th><td><table class="blank"><td class="pairingcol">SKIPPY / U. KAUFMANN</td><td class="pariingcol">ARAPAIMA / N. DESBAILLETS</td></table></td><td class="pescol"><table class="blank"><tr><td class="numcol">0-2-1</td><td class="divcol">:</td><td class="numcol">2-17-7</td></tr></table></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink D</th><td><table class="blank"><td class="pairingcol">SPICE CURLS / R. STORNETA</td><td class="pariingcol">CALIMERO / Y. PILLOUD</td></table></td><td class="pescol"><table class="blank"><tr><td class="numcol">1-10-4</td><td class="divcol">:</td><td class="numcol">1-10-4</td></tr></table></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink E</th><td><table class="blank"><td class="pairingcol">TEX AVERY / M. BOURLARD</td><td class="pariingcol">HELLO / D. CHAPUIS</td></table></td><td class="pescol"><table class="blank"><tr><td class="numcol">2-11-7</td><td class="divcol">:</td><td class="numcol">0-1-1</td></tr></table></td></tr></table></div>
+<div class="subtitle3">jeu. 10.10.2019, 20:40 - 2. Tour</div>
+<div class="result"><table><th class="rinkcol">Rink B</th><td><table class="blank"><td class="pairingcol">PIER'PRECIEUSES / A. SPOERRI</td><td class="pariingcol">HELLO / D. CHAPUIS</td></table></td><td class="pescol"><table class="blank"><tr><td class="numcol">0-6-5</td><td class="divcol">:</td><td class="numcol">2-7-3</td></tr></table></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink C</th><td><table class="blank"><td class="pairingcol">SPICE CURLS / R. STORNETA</td><td class="pariingcol">LITHOSPHERES / D. PACHE</td></table></td><td class="pescol"><table class="blank"><tr><td class="numcol">0-4-2</td><td class="divcol">:</td><td class="numcol">2-8-5</td></tr></table></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink D</th><td><table class="blank"><td class="pairingcol">SKIPPY / U. KAUFMANN</td><td class="pariingcol">LES SMARTICES / J.-M. DESBAILLETS</td></table></td><td class="pescol"><table class="blank"><tr><td class="numcol">0-6-4</td><td class="divcol">:</td><td class="numcol">2-9-3</td></tr></table></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink E</th><td><table class="blank"><td class="pairingcol">LES LYNX / J. HORNISBERGER</td><td class="pariingcol">TEX AVERY / M. BOURLARD</td></table></td><td class="pescol"><table class="blank"><tr><td class="numcol">2-5-5</td><td class="divcol">:</td><td class="numcol">0-3-3</td></tr></table></td></tr></table></div>
+<div class="subtitle3">jeu. 10.10.2019, 18:25 - 2. Tour</div>
+<div class="result"><table><th class="rinkcol">Rink B</th><td><table class="blank"><td class="pairingcol">CALIMERO / Y. PILLOUD</td><td class="pariingcol">SIHOUPLEH / J.P. SUTER</td></table></td><td class="pescol"><table class="blank"><tr><td class="numcol">0-2-1</td><td class="divcol">:</td><td class="numcol">2-10-7</td></tr></table></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink C</th><td><table class="blank"><td class="pairingcol">CRAWLEURS BRASSES / S. ALMY</td><td class="pariingcol">LOS DIABLOS / G. MANCINI</td></table></td><td class="pescol"><table class="blank"><tr><td class="numcol">0-4-3</td><td class="divcol">:</td><td class="numcol">2-16-5</td></tr></table></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink D</th><td><table class="blank"><td class="pairingcol">POUSS'PIERRES / D. FROSSARD</td><td class="pariingcol">ARAPAIMA / N. DESBAILLETS</td></table></td><td class="pescol"><table class="blank"><tr><td class="numcol">0-1-1</td><td class="divcol">:</td><td class="numcol">2-14-6</td></tr></table></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink E</th><td><table class="blank"><td class="pairingcol">ICE MAN / U. SOMMER</td><td class="pariingcol">TAKE OUT / C. GRINGET</td></table></td><td class="pescol"><table class="blank"><tr><td class="numcol">2-7-4</td><td class="divcol">:</td><td class="numcol">0-4-3</td></tr></table></td></tr></table></div>
+<div class="subtitle3">jeu. 03.10.2019, 20:40 - 1. Tour</div>
+<div class="result"><table><th class="rinkcol">Rink B</th><td><table class="blank"><td class="pairingcol">LES LYNX / J. HORNISBERGER</td><td class="pariingcol">SPICE CURLS / R. STORNETA</td></table></td><td class="pescol"><table class="blank"><tr><td class="numcol">0-2-2</td><td class="divcol">:</td><td class="numcol">2-6-6</td></tr></table></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink C</th><td><table class="blank"><td class="pairingcol">LES SMARTICES / J.-M. DESBAILLETS</td><td class="pariingcol">TAKE OUT / C. GRINGET</td></table></td><td class="pescol"><table class="blank"><tr><td class="numcol">2-8-4</td><td class="divcol">:</td><td class="numcol">0-6-3</td></tr></table></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink D</th><td><table class="blank"><td class="pairingcol">SIHOUPLEH / J.P. SUTER</td><td class="pariingcol">HELLO / D. CHAPUIS</td></table></td><td class="pescol"><table class="blank"><tr><td class="numcol">0-5-4</td><td class="divcol">:</td><td class="numcol">2-7-3</td></tr></table></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink E</th><td><table class="blank"><td class="pairingcol">LOS DIABLOS / G. MANCINI</td><td class="pariingcol">ARAPAIMA / N. DESBAILLETS</td></table></td><td class="pescol"><table class="blank"><tr><td class="numcol">0-3-3</td><td class="divcol">:</td><td class="numcol">2-7-3</td></tr></table></td></tr></table></div>
+<div class="subtitle3">jeu. 03.10.2019, 18:25 - 1. Tour</div>
+<div class="result"><table><th class="rinkcol">Rink B</th><td><table class="blank"><td class="pairingcol">SKIPPY / U. KAUFMANN</td><td class="pariingcol">ICE MAN / U. SOMMER</td></table></td><td class="pescol"><table class="blank"><tr><td class="numcol">2-5-5</td><td class="divcol">:</td><td class="numcol">0-2-2</td></tr></table></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink C</th><td><table class="blank"><td class="pairingcol">CALIMERO / Y. PILLOUD</td><td class="pariingcol">PIER'PRECIEUSES / A. SPOERRI</td></table></td><td class="pescol"><table class="blank"><tr><td class="numcol">0-2-2</td><td class="divcol">:</td><td class="numcol">2-8-5</td></tr></table></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink D</th><td><table class="blank"><td class="pairingcol">TEX AVERY / M. BOURLARD</td><td class="pariingcol">LITHOSPHERES / D. PACHE</td></table></td><td class="pescol"><table class="blank"><tr><td class="numcol">2-12-4</td><td class="divcol">:</td><td class="numcol">0-7-4</td></tr></table></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink E</th><td><table class="blank"><td class="pairingcol">CRAWLEURS BRASSES / S. ALMY</td><td class="pariingcol">POUSS'PIERRES / D. FROSSARD</td></table></td><td class="pescol"><table class="blank"><tr><td class="numcol">2-13-6</td><td class="divcol">:</td><td class="numcol">0-4-2</td></tr></table></td></tr></table></div>
+<hr />
+<div class="subtitle">Prochains Matchs</div>
+<div class="subtitle3">jeu. 24.10.2019, 18:25 - 4. Tour</div>
+<div class="result"><table><th class="rinkcol">Rink B</th><td><table class="blank"><td class="pairingcol">SPICE CURLS / R. STORNETA</td><td class="pariingcol">HELLO / D. CHAPUIS</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink C</th><td><table class="blank"><td class="pairingcol">ICE MAN / U. SOMMER</td><td class="pariingcol">POUSS'PIERRES / D. FROSSARD</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink D</th><td><table class="blank"><td class="pairingcol">SKIPPY / U. KAUFMANN</td><td class="pariingcol">CRAWLEURS BRASSES / S. ALMY</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink E</th><td><table class="blank"><td class="pairingcol">LES SMARTICES / J.-M. DESBAILLETS</td><td class="pariingcol">LOS DIABLOS / G. MANCINI</td></table></td><td class="pescol"></td></tr></table></div>
+<div class="subtitle3">jeu. 24.10.2019, 20:40 - 4. Tour</div>
+<div class="result"><table><th class="rinkcol">Rink B</th><td><table class="blank"><td class="pairingcol">PIER'PRECIEUSES / A. SPOERRI</td><td class="pariingcol">LITHOSPHERES / D. PACHE</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink C</th><td><table class="blank"><td class="pairingcol">SIHOUPLEH / J.P. SUTER</td><td class="pariingcol">LES LYNX / J. HORNISBERGER</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink D</th><td><table class="blank"><td class="pairingcol">TEX AVERY / M. BOURLARD</td><td class="pariingcol">CALIMERO / Y. PILLOUD</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink E</th><td><table class="blank"><td class="pairingcol">TAKE OUT / C. GRINGET</td><td class="pariingcol">ARAPAIMA / N. DESBAILLETS</td></table></td><td class="pescol"></td></tr></table></div>
+<div class="subtitle3">jeu. 31.10.2019, 18:25 - 5. Tour</div>
+<div class="result"><table><th class="rinkcol">Rink B</th><td><table class="blank"><td class="pairingcol">CALIMERO / Y. PILLOUD</td><td class="pariingcol">LOS DIABLOS / G. MANCINI</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink C</th><td><table class="blank"><td class="pairingcol">HELLO / D. CHAPUIS</td><td class="pariingcol">POUSS'PIERRES / D. FROSSARD</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink D</th><td><table class="blank"><td class="pairingcol">TAKE OUT / C. GRINGET</td><td class="pariingcol">LITHOSPHERES / D. PACHE</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink E</th><td><table class="blank"><td class="pairingcol">SPICE CURLS / R. STORNETA</td><td class="pariingcol">LES SMARTICES / J.-M. DESBAILLETS</td></table></td><td class="pescol"></td></tr></table></div>
+<div class="subtitle3">jeu. 31.10.2019, 20:40 - 5. Tour</div>
+<div class="result"><table><th class="rinkcol">Rink B</th><td><table class="blank"><td class="pairingcol">ICE MAN / U. SOMMER</td><td class="pariingcol">TEX AVERY / M. BOURLARD</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink C</th><td><table class="blank"><td class="pairingcol">CRAWLEURS BRASSES / S. ALMY</td><td class="pariingcol">PIER'PRECIEUSES / A. SPOERRI</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink D</th><td><table class="blank"><td class="pairingcol">SIHOUPLEH / J.P. SUTER</td><td class="pariingcol">ARAPAIMA / N. DESBAILLETS</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink E</th><td><table class="blank"><td class="pairingcol">LES LYNX / J. HORNISBERGER</td><td class="pariingcol">SKIPPY / U. KAUFMANN</td></table></td><td class="pescol"></td></tr></table></div>
+<div class="subtitle3">jeu. 07.11.2019, 18:25 - 6. Tour</div>
+<div class="result"><table><th class="rinkcol">Rink B</th><td><table class="blank"><td class="pairingcol">SIHOUPLEH / J.P. SUTER</td><td class="pariingcol">LES SMARTICES / J.-M. DESBAILLETS</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink C</th><td><table class="blank"><td class="pairingcol">CALIMERO / Y. PILLOUD</td><td class="pariingcol">TAKE OUT / C. GRINGET</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink D</th><td><table class="blank"><td class="pairingcol">HELLO / D. CHAPUIS</td><td class="pariingcol">SKIPPY / U. KAUFMANN</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink E</th><td><table class="blank"><td class="pairingcol">LES LYNX / J. HORNISBERGER</td><td class="pariingcol">POUSS'PIERRES / D. FROSSARD</td></table></td><td class="pescol"></td></tr></table></div>
+<div class="subtitle3">jeu. 07.11.2019, 20:40 - 6. Tour</div>
+<div class="result"><table><th class="rinkcol">Rink B</th><td><table class="blank"><td class="pairingcol">ARAPAIMA / N. DESBAILLETS</td><td class="pariingcol">SPICE CURLS / R. STORNETA</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink C</th><td><table class="blank"><td class="pairingcol">LITHOSPHERES / D. PACHE</td><td class="pariingcol">LOS DIABLOS / G. MANCINI</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink D</th><td><table class="blank"><td class="pairingcol">TEX AVERY / M. BOURLARD</td><td class="pariingcol">CRAWLEURS BRASSES / S. ALMY</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink E</th><td><table class="blank"><td class="pairingcol">ICE MAN / U. SOMMER</td><td class="pariingcol">PIER'PRECIEUSES / A. SPOERRI</td></table></td><td class="pescol"></td></tr></table></div>
+<div class="subtitle3">jeu. 14.11.2019, 18:25 - 7. Tour</div>
+<div class="result"><table><th class="rinkcol">Rink B</th><td><table class="blank"><td class="pairingcol">LITHOSPHERES / D. PACHE</td><td class="pariingcol">POUSS'PIERRES / D. FROSSARD</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink C</th><td><table class="blank"><td class="pairingcol">CALIMERO / Y. PILLOUD</td><td class="pariingcol">SKIPPY / U. KAUFMANN</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink D</th><td><table class="blank"><td class="pairingcol">LES SMARTICES / J.-M. DESBAILLETS</td><td class="pariingcol">PIER'PRECIEUSES / A. SPOERRI</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink E</th><td><table class="blank"><td class="pairingcol">SPICE CURLS / R. STORNETA</td><td class="pariingcol">CRAWLEURS BRASSES / S. ALMY</td></table></td><td class="pescol"></td></tr></table></div>
+<div class="subtitle3">jeu. 14.11.2019, 20:40 - 7. Tour</div>
+<div class="result"><table><th class="rinkcol">Rink B</th><td><table class="blank"><td class="pairingcol">HELLO / D. CHAPUIS</td><td class="pariingcol">TAKE OUT / C. GRINGET</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink C</th><td><table class="blank"><td class="pairingcol">ICE MAN / U. SOMMER</td><td class="pariingcol">SIHOUPLEH / J.P. SUTER</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink D</th><td><table class="blank"><td class="pairingcol">LES LYNX / J. HORNISBERGER</td><td class="pariingcol">LOS DIABLOS / G. MANCINI</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink E</th><td><table class="blank"><td class="pairingcol">TEX AVERY / M. BOURLARD</td><td class="pariingcol">ARAPAIMA / N. DESBAILLETS</td></table></td><td class="pescol"></td></tr></table></div>
+<div class="subtitle3">jeu. 21.11.2019, 18:25 - 8. Tour</div>
+<div class="result"><table><th class="rinkcol">Rink B</th><td><table class="blank"><td class="pairingcol">TAKE OUT / C. GRINGET</td><td class="pariingcol">LES LYNX / J. HORNISBERGER</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink C</th><td><table class="blank"><td class="pairingcol">SIHOUPLEH / J.P. SUTER</td><td class="pariingcol">CRAWLEURS BRASSES / S. ALMY</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink D</th><td><table class="blank"><td class="pairingcol">ICE MAN / U. SOMMER</td><td class="pariingcol">SPICE CURLS / R. STORNETA</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink E</th><td><table class="blank"><td class="pairingcol">HELLO / D. CHAPUIS</td><td class="pariingcol">LOS DIABLOS / G. MANCINI</td></table></td><td class="pescol"></td></tr></table></div>
+<div class="subtitle3">jeu. 21.11.2019, 20:40 - 8. Tour</div>
+<div class="result"><table><th class="rinkcol">Rink B</th><td><table class="blank"><td class="pairingcol">PIER'PRECIEUSES / A. SPOERRI</td><td class="pariingcol">ARAPAIMA / N. DESBAILLETS</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink C</th><td><table class="blank"><td class="pairingcol">TEX AVERY / M. BOURLARD</td><td class="pariingcol">LES SMARTICES / J.-M. DESBAILLETS</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink D</th><td><table class="blank"><td class="pairingcol">SKIPPY / U. KAUFMANN</td><td class="pariingcol">LITHOSPHERES / D. PACHE</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink E</th><td><table class="blank"><td class="pairingcol">POUSS'PIERRES / D. FROSSARD</td><td class="pariingcol">CALIMERO / Y. PILLOUD</td></table></td><td class="pescol"></td></tr></table></div>
+<div class="subtitle3">jeu. 05.12.2019, 18:25 - 9. Tour</div>
+<div class="result"><table><th class="rinkcol">Rink B</th><td><table class="blank"><td class="pairingcol">TAKE OUT / C. GRINGET</td><td class="pariingcol">SIHOUPLEH / J.P. SUTER</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink C</th><td><table class="blank"><td class="pairingcol">SKIPPY / U. KAUFMANN</td><td class="pariingcol">PIER'PRECIEUSES / A. SPOERRI</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink D</th><td><table class="blank"><td class="pairingcol">LOS DIABLOS / G. MANCINI</td><td class="pariingcol">TEX AVERY / M. BOURLARD</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink E</th><td><table class="blank"><td class="pairingcol">CALIMERO / Y. PILLOUD</td><td class="pariingcol">ICE MAN / U. SOMMER</td></table></td><td class="pescol"></td></tr></table></div>
+<div class="subtitle3">jeu. 05.12.2019, 20:40 - 9. Tour</div>
+<div class="result"><table><th class="rinkcol">Rink B</th><td><table class="blank"><td class="pairingcol">CRAWLEURS BRASSES / S. ALMY</td><td class="pariingcol">LES LYNX / J. HORNISBERGER</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink C</th><td><table class="blank"><td class="pairingcol">POUSS'PIERRES / D. FROSSARD</td><td class="pariingcol">SPICE CURLS / R. STORNETA</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink D</th><td><table class="blank"><td class="pairingcol">HELLO / D. CHAPUIS</td><td class="pariingcol">LES SMARTICES / J.-M. DESBAILLETS</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink E</th><td><table class="blank"><td class="pairingcol">ARAPAIMA / N. DESBAILLETS</td><td class="pariingcol">LITHOSPHERES / D. PACHE</td></table></td><td class="pescol"></td></tr></table></div>
+<div class="subtitle3">jeu. 12.12.2019, 18:25 - 10. Tour</div>
+<div class="result"><table><th class="rinkcol">Rink B</th><td><table class="blank"><td class="pairingcol">PIER'PRECIEUSES / A. SPOERRI</td><td class="pariingcol">TEX AVERY / M. BOURLARD</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink C</th><td><table class="blank"><td class="pairingcol">LOS DIABLOS / G. MANCINI</td><td class="pariingcol">TAKE OUT / C. GRINGET</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink D</th><td><table class="blank"><td class="pairingcol">CRAWLEURS BRASSES / S. ALMY</td><td class="pariingcol">ICE MAN / U. SOMMER</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink E</th><td><table class="blank"><td class="pairingcol">SIHOUPLEH / J.P. SUTER</td><td class="pariingcol">SPICE CURLS / R. STORNETA</td></table></td><td class="pescol"></td></tr></table></div>
+<div class="subtitle3">jeu. 12.12.2019, 20:40 - 10. Tour</div>
+<div class="result"><table><th class="rinkcol">Rink B</th><td><table class="blank"><td class="pairingcol">POUSS'PIERRES / D. FROSSARD</td><td class="pariingcol">SKIPPY / U. KAUFMANN</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink C</th><td><table class="blank"><td class="pairingcol">ARAPAIMA / N. DESBAILLETS</td><td class="pariingcol">LES SMARTICES / J.-M. DESBAILLETS</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink D</th><td><table class="blank"><td class="pairingcol">LITHOSPHERES / D. PACHE</td><td class="pariingcol">CALIMERO / Y. PILLOUD</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink E</th><td><table class="blank"><td class="pairingcol">HELLO / D. CHAPUIS</td><td class="pariingcol">LES LYNX / J. HORNISBERGER</td></table></td><td class="pescol"></td></tr></table></div>
+<div class="subtitle3">jeu. 19.12.2019, 18:25 - 11. Tour</div>
+<div class="result"><table><th class="rinkcol">Rink B</th><td><table class="blank"><td class="pairingcol">LES SMARTICES / J.-M. DESBAILLETS</td><td class="pariingcol">CRAWLEURS BRASSES / S. ALMY</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink C</th><td><table class="blank"><td class="pairingcol">PIER'PRECIEUSES / A. SPOERRI</td><td class="pariingcol">SPICE CURLS / R. STORNETA</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink D</th><td><table class="blank"><td class="pairingcol">TEX AVERY / M. BOURLARD</td><td class="pariingcol">SIHOUPLEH / J.P. SUTER</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink E</th><td><table class="blank"><td class="pairingcol">POUSS'PIERRES / D. FROSSARD</td><td class="pariingcol">TAKE OUT / C. GRINGET</td></table></td><td class="pescol"></td></tr></table></div>
+<div class="subtitle3">jeu. 19.12.2019, 20:40 - 11. Tour</div>
+<div class="result"><table><th class="rinkcol">Rink B</th><td><table class="blank"><td class="pairingcol">LITHOSPHERES / D. PACHE</td><td class="pariingcol">HELLO / D. CHAPUIS</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink C</th><td><table class="blank"><td class="pairingcol">ARAPAIMA / N. DESBAILLETS</td><td class="pariingcol">ICE MAN / U. SOMMER</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink D</th><td><table class="blank"><td class="pairingcol">LES LYNX / J. HORNISBERGER</td><td class="pariingcol">CALIMERO / Y. PILLOUD</td></table></td><td class="pescol"></td></tr></table></div><div class="result"><table><th class="rinkcol">Rink E</th><td><table class="blank"><td class="pairingcol">LOS DIABLOS / G. MANCINI</td><td class="pariingcol">SKIPPY / U. KAUFMANN</td></table></td><td class="pescol"></td></tr></table></div>
+<hr />
+<table class="footer">
+  <tr>
+    <td>Spielstand vom: 18.10.2019 / 17:27:32</td>
+    <td class="license"><a href="http://www.rinkmaster.ch" target="_blank">Rinkmaster 14.2.15, lizenziert für Association Lausannoise de Curling</a></td>
+  </tr>
+</table>
+</div>
+<div id="rightborder"></div>
+<script language="javascript">
+  var nav = document.getElementById('navigation');
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+    if(this.readyState == 4 && this.status == 200) {
+      nav.innerHTML = this.responseText;
+    }
+  }
+  xhttp.open("GET", 'nav.html', true);
+  try {
+    xhttp.overrideMimeType('text/html; charset=UTF-8');
+  } finally {}
+  xhttp.setRequestHeader('Cache-Control', 'no-cache, no-store, must-revalidate');
+  xhttp.send();
+</script>
+</body>
+  
+</html>
